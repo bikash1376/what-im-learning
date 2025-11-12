@@ -1,4 +1,6 @@
-https://www.aha.io/blog/text-editor
+https://github.com/GibsonAI/Memori
+
+https://www.gibsonai.com/docs/memori
 
 https://www.youtube.com/watch?v=TZ5a3gCCZYo
 
