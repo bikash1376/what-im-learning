@@ -1,3 +1,7 @@
+https://docs.expo.dev/
+
+https://www.youtube.com/watch?v=Sa-YQYx3nTU
+
 https://github.com/GibsonAI/Memori
 
 https://www.gibsonai.com/docs/memori
