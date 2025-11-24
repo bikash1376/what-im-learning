@@ -1,3 +1,12 @@
+ML path:
+1. Math : Linear Algebra, Calculus, Statistics, Probability Theory (Khan Academy)
+2. Python Basics, Some libraries 
+3. Pandas, Numpy, Matplotlib, Seaborne (Youtube)
+4. ML specialization on Coursera 
+5. DL specialization on Coursera
+6. Build projects
+7. Read research papers
+
 https://docs.expo.dev/
 
 https://www.youtube.com/watch?v=Sa-YQYx3nTU
