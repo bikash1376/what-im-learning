@@ -7,6 +7,8 @@ ML path:
 6. Build projects
 7. Read research papers
 
+https://blog.webdevsimplified.com/
+
 https://docs.expo.dev/
 
 https://www.youtube.com/watch?v=Sa-YQYx3nTU
