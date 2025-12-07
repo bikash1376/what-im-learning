@@ -7,6 +7,8 @@ ML path:
 6. Build projects
 7. Read research papers
 
+https://www.totaltypescript.com/tutorials
+
 https://blog.webdevsimplified.com/
 
 https://docs.expo.dev/
